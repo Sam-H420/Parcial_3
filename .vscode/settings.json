@@ -1,0 +1,18 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "C:/Java/javafx-sdk-20.0.1/lib/**/*.jar",
+        "c:\\Java\\javafx-sdk-20.0.1\\lib\\javafx.base.jar",
+        "c:\\Java\\javafx-sdk-20.0.1\\lib\\javafx.controls.jar",
+        "c:\\Java\\javafx-sdk-20.0.1\\lib\\javafx.fxml.jar",
+        "c:\\Java\\javafx-sdk-20.0.1\\lib\\javafx.graphics.jar",
+        "c:\\Java\\javafx-sdk-20.0.1\\lib\\javafx.media.jar",
+        "c:\\Java\\javafx-sdk-20.0.1\\lib\\javafx.swing.jar",
+        "c:\\Java\\javafx-sdk-20.0.1\\lib\\javafx.web.jar",
+        "c:\\Java\\javafx-sdk-20.0.1\\lib\\javafx-swt.jar",
+        "c:\\Java\\sqlite-jdbc\\sqlite-jdbc-3.41.2.1.jar"
+    ],
+    "liveshare.allowGuestDebugControl": true,
+    "liveshare.allowGuestTaskControl": true
+}
